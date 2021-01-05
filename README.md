@@ -1,11 +1,11 @@
 ## Android Weather Application with User Registration!!
 
-- I was create this application for an Assignment for my University.
+- I was created this application for an Assignment for my University.
 This is a Android Weather Application with User login and Registration.
 
 ---
 
-Use this login credentials for testing this application : 
+Use this login credentials for test this application : 
 - User Name -> asd 
 - Password -> asd
 
